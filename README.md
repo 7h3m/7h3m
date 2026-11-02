@@ -1,4 +1,4 @@
-7h3m
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=7h3m&fontSize=75&fontColor=8b9dff&animation=fadeIn" width="100%" alt="7h3m">
@@ -47,7 +47,7 @@ I enjoy creating tools, experimenting with code and building projects to improve
 <p align="center">
   <i>Building today. Improving tomorrow.</i>
 </p>
-
+discord : @vgmf
 <!--
 **7h3m/7h3m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
