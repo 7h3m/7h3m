@@ -41,13 +41,14 @@ I enjoy creating tools, experimenting with code and building projects to improve
 <p>
   <a href="https://github.com/7h3m">
     <img src="https://img.shields.io/badge/GitHub-Follow%20me-black?style=for-the-badge&logo=github" alt="Follow on GitHub">
+ discord : @vgmf
   </a>
 </p>---
 
 <p align="center">
   <i>Building today. Improving tomorrow.</i>
 </p>
-discord : @vgmf
+
 <!--
 **7h3m/7h3m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
